@@ -1,0 +1,28 @@
+# Arduino build files
+*.ino~
+*.hex
+*.elf
+
+# Arduino IDE
+*.log
+*.bak
+*.tmp
+*.swp
+
+# ESP32 / PlatformIO
+.pio/
+.vscode/
+
+# Compiled files
+*.o
+*.a
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets
+secrets.h
+.env
+
