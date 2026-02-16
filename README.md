@@ -115,5 +115,18 @@ Software:
 MVP / Prototype
 
 Проект может быть масштабирован для реального использования в системах экологического мониторинга космической инфраструктуры.
+## How to run (ESP32)
+
+1. Open `firmware/esp32/baikonur_eco_mvp.ino` in Arduino IDE
+2. Install libraries:
+   - UniversalTelegramBot
+   - ArduinoJson
+   - DHT sensor library
+3. Create file `firmware/esp32/secrets.h` on your computer
+   (copy from secrets.h.example)
+4. Select board: ESP32 Dev Module
+5. Select COM port
+6. Upload firmware
+7. Send /start in Telegram
 
 ---
