@@ -130,3 +130,26 @@ MVP / Prototype
 7. Send /start in Telegram
 
 ---
+## Project Demonstration
+
+This repository contains an MVP prototype of an AI-based ecological
+monitoring system for the Baikonur Cosmodrome environment.
+
+The system demonstrates:
+
+- Environmental data collection using sensors
+- ESP32-based IoT architecture
+- Telegram bot notification system
+- AI-based environmental risk evaluation
+
+This MVP shows how an intelligent monitoring system could be used
+to analyze ecological conditions around space launch infrastructure.
+
+## Competition Submission
+
+This repository includes:
+
+MVP source code — firmware/
+Technical documentation — docs/
+Pitch-deck presentation — pitch/
+Project description — README.md
